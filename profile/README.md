@@ -2,7 +2,7 @@
 
 [Unit Zero Labs](https://unitzero.io) provides the initial momentum for protocols to accelerate growth through quantitative science and innovative mechanism design.
 
-# Our Services: 
+## UZL Services: 
 
 ### TOKENOMICS MODELING & OPTIMIZATION
 
