@@ -1,6 +1,5 @@
-## Unit Zero Labs 
 
-![Unit Zero Labs Logo](logo.png)
+![UZL_Logo_v2](https://github.com/user-attachments/assets/53f741f4-dbde-4420-9edb-30651994d0bc)
 
 [Unit Zero Labs](https://unitzero.io) provides the initial momentum for protocols to accelerate growth through quantitative science and innovative mechanism design.
 
