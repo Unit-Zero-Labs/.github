@@ -1,6 +1,4 @@
-
-![UZL_Logo_v2](https://github.com/user-attachments/assets/53f741f4-dbde-4420-9edb-30651994d0bc)
-
+![UZL_Logo_300x300](https://github.com/user-attachments/assets/90e79f2a-5285-4083-b462-4096422997d3)
 [Unit Zero Labs](https://unitzero.io) provides the initial momentum for protocols to accelerate growth through quantitative science and innovative mechanism design.
 
 We offer: 
